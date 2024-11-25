@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fathima-naj/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Fathima-naj/leetCode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
