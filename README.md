@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Fathima-naj/leetCode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fathima-naj/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fathima-naj/leetCode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Fathima-naj/leetCode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Fathima-naj/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fathima-naj/leetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Fathima-naj/leetCode/tree/master/0260-single-number-iii) |
 ## Matrix
 |  |
 | ------- |
