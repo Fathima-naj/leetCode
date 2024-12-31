@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fathima-naj/leetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Fathima-naj/leetCode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Fathima-naj/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fathima-naj/leetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fathima-naj/leetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fathima-naj/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
