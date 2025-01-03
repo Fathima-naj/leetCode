@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Fathima-naj/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fathima-naj/leetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Fathima-naj/leetCode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Fathima-naj/leetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fathima-naj/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Fathima-naj/leetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Fathima-naj/leetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
