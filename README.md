@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Fathima-naj/leetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Fathima-naj/leetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fathima-naj/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Fathima-naj/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fathima-naj/leetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Fathima-naj/leetCode/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/Fathima-naj/leetCode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Fathima-naj/leetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Fathima-naj/leetCode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
