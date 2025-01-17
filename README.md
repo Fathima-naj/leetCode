@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Fathima-naj/leetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Fathima-naj/leetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathima-naj/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Fathima-naj/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Fathima-naj/leetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Fathima-naj/leetCode/tree/master/0742-to-lower-case) |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Fathima-naj/leetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Fathima-naj/leetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Fathima-naj/leetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Fathima-naj/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fathima-naj/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Fathima-naj/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/Fathima-naj/leetCode/tree/master/2058-concatenation-of-array) |
 ## Counting
