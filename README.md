@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/Fathima-naj/leetCode/tree/master/0944-smallest-range-i) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Fathima-naj/leetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Fathima-naj/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
+| [0944-smallest-range-i](https://github.com/Fathima-naj/leetCode/tree/master/0944-smallest-range-i) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fathima-naj/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Simulation
