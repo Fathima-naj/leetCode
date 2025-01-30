@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Fathima-naj/leetCode/tree/master/2058-concatenation-of-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fathima-naj/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fathima-naj/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Fathima-naj/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fathima-naj/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fathima-naj/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
