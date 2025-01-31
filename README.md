@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fathima-naj/leetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathima-naj/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fathima-naj/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
+| [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Fathima-naj/leetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Fathima-naj/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Fathima-naj/leetCode/tree/master/0415-add-strings) |
+| [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/Fathima-naj/leetCode/tree/master/0944-smallest-range-i) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fathima-naj/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathima-naj/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fathima-naj/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fathima-naj/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -151,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Fathima-naj/leetCode/tree/master/2128-reverse-prefix-of-word) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
