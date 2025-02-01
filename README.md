@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Fathima-naj/leetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fathima-naj/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Fathima-naj/leetCode/tree/master/0944-smallest-range-i) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Fathima-naj/leetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/Fathima-naj/leetCode/tree/master/0944-smallest-range-i) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fathima-naj/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Fathima-naj/leetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/Fathima-naj/leetCode/tree/master/2556-convert-the-temperature) |
 ## Simulation
