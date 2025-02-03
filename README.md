@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Fathima-naj/leetCode/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fathima-naj/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/Fathima-naj/leetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fathima-naj/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
