@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fathima-naj/leetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathima-naj/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fathima-naj/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-destination-city](https://github.com/Fathima-naj/leetCode/tree/master/1547-destination-city) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Fathima-naj/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Fathima-naj/leetCode/tree/master/2058-concatenation-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Fathima-naj/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fathima-naj/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fathima-naj/leetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-destination-city](https://github.com/Fathima-naj/leetCode/tree/master/1547-destination-city) |
 | [1848-sum-of-unique-elements](https://github.com/Fathima-naj/leetCode/tree/master/1848-sum-of-unique-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fathima-naj/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Fathima-naj/leetCode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fathima-naj/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1547-destination-city](https://github.com/Fathima-naj/leetCode/tree/master/1547-destination-city) |
 | [2128-reverse-prefix-of-word](https://github.com/Fathima-naj/leetCode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
