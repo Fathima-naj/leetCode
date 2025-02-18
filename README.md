@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fathima-naj/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/Fathima-naj/leetCode/tree/master/3429-special-array-i) |
+| [3723-sum-of-good-numbers](https://github.com/Fathima-naj/leetCode/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
