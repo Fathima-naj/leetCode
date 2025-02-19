@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fathima-naj/leetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/Fathima-naj/leetCode/tree/master/3429-special-array-i) |
 | [3723-sum-of-good-numbers](https://github.com/Fathima-naj/leetCode/tree/master/3723-sum-of-good-numbers) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Fathima-naj/leetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
